@@ -1,6 +1,3 @@
-# https-github.com-repositories-machineLearn
-This is a project for the Coursera John Hopkins Machine learning class.
-
 A derived data set of the mean and standard deviation of the three
 accelerometers orientations and three gyroscope orientations are
 summarized for each variable for each participant and activity as
@@ -51,3 +48,17 @@ dumbbell observations:
 121. magnet_dumbbell_z
 
 forearm (glove) observations:
+
+123. pitch_forearm           
+151. gyros_forearm_x
+152. gyros_forearm_y
+153. gyros_forearm_z         
+157. magnet_forearm_x
+158. magnet_forearm_y
+159. magnet_forearm_z
+
+## Activity to Predict
+        
+160. classe                  
+
+
